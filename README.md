@@ -77,8 +77,6 @@ icon:email wangxinyuan1008@163.com
 - 获得多次优秀社区志愿者，受邀参加英特尔边缘计算与人工智能行业培训。并主持周年开源年会。
 - 在社区中了解了开源社区维护与开源文化，激发了我对开源的好奇心与热情。
 
-<br>
-
 ## 其他荣誉
 
 - 主持国家级大创项目并成功结项，被评为优秀大创项目。
@@ -148,6 +146,7 @@ icon:email wangxinyuan1008@163.com
 }
 .rs-view h1 {
     border-bottom: none;
+padding:5px 0;
 }
 .rs-view h2{
   background-color:#00b38a;
