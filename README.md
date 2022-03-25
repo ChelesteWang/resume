@@ -50,6 +50,7 @@ icon:email <wangxinyuan1008@163.com>
 
 ## 实习经历
 
+:::left
 ### 跨越星空（北京）科技有限公司 - 前端研发部
 
 :::
@@ -138,6 +139,7 @@ icon:email <wangxinyuan1008@163.com>
 *   使用 unstate-next 进行状态管理，并支持离线化。
 
 *   沉淀 React Native 开发相关技术实践方案及文档
+    相关文档: <https://github.com/ChelesteWang/react-native-best-practice>
 
 :::left
 
@@ -177,14 +179,6 @@ icon:email <wangxinyuan1008@163.com>
 
 *   在社区中了解了开源社区维护与开源文化，激发了我对开源的好奇心与热情。
 
-## 其他荣誉
-
-*   主持国家级大创项目并成功结项，被评为优秀大创项目。
-
-*   Microsoft Learn Student Ambassador 微软校园大使。
-
-*   入选 Linux 基金会开源软件大学激励计划。
-
 ## 个人总结
 
 *   喜欢接触新鲜事物，关注前沿技术资讯。
@@ -194,3 +188,11 @@ icon:email <wangxinyuan1008@163.com>
 *   常对所学知识进行总结沉淀与并输出文章加深理解。
 
 *   能够独立设计开发方案，解决开发中遇到的问题。能对资源进行高效搜索以及分类。
+
+## 其他荣誉
+
+*   主持国家级大创项目并成功结项，被评为优秀大创项目。
+
+*   Microsoft Learn Student Ambassador 微软校园大使。
+
+*   入选 Linux 基金会开源软件大学激励计划。
