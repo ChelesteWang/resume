@@ -12,7 +12,7 @@ icon:email <wangxinyuan1008@163.com>
 
 [icon:juejin 掘金 : 咸鱼爱前端](https://juejin.cn/user/43636197953101)
 
-天津城建大学 / 软件工程  2023年毕业
+<br>
 
 :::
 
